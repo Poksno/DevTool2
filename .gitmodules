@@ -1,0 +1,3 @@
+[submodule "SamsungChecks"]
+	path = SamsungChecks
+	url = https://github.com/RecodeLiner/SamsungChecks
