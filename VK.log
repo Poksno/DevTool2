@@ -1,0 +1,54 @@
+UID_USER:247625040
+USER_AGENT:VKAndroidApp/7.26-12338 (Android 12; SDK 31; arm64-v8a; samsung SM-G998B; en; 2400x1080)
+VERSION_CODENAME:REL
+SDK CODE:31
+MANUFACTURER:samsung
+MODEL:SM-G998B
+BOARD:exynos2100
+BRAND:samsung
+DEVICE:p3s
+HARDWARE:exynos2100
+DISPLAY:SP1A.210812.016.G998BXXS5CVIF
+VERSIONS:12338
+
+
+09.11.2022 1:48:28:	609	I	AudioPlayerIpcClient[main] b:2 MusicLog :  Request<LocalSettingChangeCmd(packageName=com.vtosters.lite, setting=START_WRITE_LOGS, isEnable=true)>, appPackage: com.vtosters.lite 
+09.11.2022 1:48:28:	612	D	AudioPlayerIpcClient[main] i:9 MusicLog :  today date = 20221109, last played date = 19700101 
+09.11.2022 1:48:28:	613	D	AudioPlayerIpcClient[main] b:16 MusicLog :  lastPlayedDateIsCurrentDate = false, timePlayedInBackground = 0 
+09.11.2022 1:48:28:	615	V	VKApi--> POST https://api.vk.com/method/execute.getAudioServicePackages
+09.11.2022 1:48:28:	616	V	VKApiContent-Type: application/x-www-form-urlencoded; charset=utf-8
+09.11.2022 1:48:28:	617	V	VKApiContent-Length: 297
+09.11.2022 1:48:28:	618	V	VKApiCache-Control: no-cache
+09.11.2022 1:48:28:	619	V	VKApiX-Get-Processing-Time: 1
+09.11.2022 1:48:28:	619	V	VKApiUser-Agent: VKAndroidApp/7.26-12338 (Android 12; SDK 31; arm64-v8a; samsung SM-G998B; en; 2400x1080)
+09.11.2022 1:48:28:	630	V	VKApiX-VK-Android-Client: new
+09.11.2022 1:48:28:	638	V	VKApiv=5.119&https=1&lang=en&device_id=fb114bbf6786ad44%3Ad1dd9d3637a5071c346b4560519f2498&access_token=<HIDE>
+09.11.2022 1:48:28:	641	V	VKApi--> END POST (297-byte body)
+09.11.2022 1:48:28:	709	V	VKApi<-- 200 https://api.vk.com/method/execute.getAudioServicePackages (67ms)
+09.11.2022 1:48:28:	710	V	VKApiserver: kittenx
+09.11.2022 1:48:28:	711	V	VKApidate: Tue, 08 Nov 2022 20:48:28 GMT
+09.11.2022 1:48:28:	712	V	VKApicontent-type: application/json; charset=utf-8
+09.11.2022 1:48:28:	713	V	VKApix-powered-by: KPHP/7.4.112599
+09.11.2022 1:48:28:	713	V	VKApiset-cookie: remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly
+09.11.2022 1:48:28:	715	V	VKApicache-control: no-store
+09.11.2022 1:48:28:	717	V	VKApix-frame-options: DENY
+09.11.2022 1:48:28:	718	V	VKApix-request-processing-time: 0.012
+09.11.2022 1:48:28:	719	V	VKApi{"response":["com.vkontakte.android","com.vk.im"]}
+09.11.2022 1:48:28:	720	V	VKApi<-- END HTTP (50-byte body)
+09.11.2022 1:48:28:	722	I	ServiceConnectedHelper[main] b:2 MusicLog :  connect to AudioService (package =  com.vkontakte.android ) 
+09.11.2022 1:48:28:	726	I	ServiceConnectedHelper[main] a:16 MusicLog :  state:  AudioPlayerStateConnection1 
+09.11.2022 1:48:29:	569	D	AppUseTime[main] b:8 open feed 1667940509568 
+09.11.2022 1:48:29:	612	D	AppUseTime[main] b:8 open discover 1667940509611 
+09.11.2022 1:48:39:	464	I	HeadsetActivityPausedListener[main] onActivityPaused:1 MusicLog :  HSNMan onHostActivityPaused 
+09.11.2022 1:48:39:	465	I	HeadsetNotificationManager[main] d:1 MusicLog :  HSNMan hide headset notification 
+09.11.2022 1:48:39:	470	D	AppUseTime[main] a:24 close discover 1667940519470  
+09.11.2022 1:48:39:	471	D	AppUseTime[main] a:24 close feed 1667940519471  
+09.11.2022 1:48:39:	484	I	MusicStoriesPlayer[main] e:1 MusicLog :  
+09.11.2022 1:48:39:	487	I	ExoPlayerHelper[main] stop:1 MusicLog :  
+09.11.2022 1:48:39:	488	I	ExoPlayerHelper[main] a:3 MusicLog :  
+09.11.2022 1:48:39:	490	I	ExoPlayerHelper[main] a:11 MusicLog :  state= STOPPED 
+09.11.2022 1:48:39:	499	D	MemLowCapacityCache[main] a:6 AppStateCache PUT mem: 49402bfd-fb5b-4342-b47f-02eeac361e21_1667940519498 
+09.11.2022 1:48:39:	504	D	DatabaseCache[main] a:20 AppStateCache PUT store: 49402bfd-fb5b-4342-b47f-02eeac361e21_1667940519498 - 2992 bytes 
+09.11.2022 1:48:39:	506	D	DatabaseCache[main] e:4 AppStateCache TRIM store REGULAR 
+09.11.2022 1:48:39:	878	D	UITrackingActivity[main] onActivityDestroyed:2 UiTracker: onActivityDestroyed FragmentWrapperActivity 
+09.11.2022 1:48:39:	890	D	UITrackingActivity[main] onActivityDestroyed:2 UiTracker: onActivityDestroyed MainActivity 
